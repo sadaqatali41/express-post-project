@@ -12,10 +12,11 @@ https://github.com/sadaqatali41/express-post-project.git
 ```
 npm install
 ```
-## How to run?
+## Execution with terminal
 ```
 node app.js
 ```
+### Open Browser & Paste below URL.
 ```
 localhost:3000
 ```
